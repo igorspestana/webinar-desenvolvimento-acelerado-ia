@@ -74,8 +74,8 @@ O boilerplate gerado incluirá:
 
 ### 1. Clone o Repositório
 ```bash
-git clone <repository-url>
-cd webinar-desenvolvimento-acelerado-ia
+git clone https://github.com/igorspestana/webinar-desenvolvimento-acelerado-com-agentes-de-ia.git
+cd webinar-desenvolvimento-acelerado-com-agentes-de-ia
 ```
 
 ### 2. Configure Seu Agente de IA
