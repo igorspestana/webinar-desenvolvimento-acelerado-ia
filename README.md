@@ -44,6 +44,11 @@ Este repositório foi projetado para funcionar com múltiplos agentes de desenvo
 ### Modelo Recomendado
 **Claude Sonnet 4** é recomendado para melhores resultados na geração do boilerplate.
 
+## Projeto Desenvolvido
+
+### 🚀 API Boilerplate com Autenticação Supabase
+O projeto [api-boilerplate-auth-supabase](https://github.com/igorspestana/api-boilerplate-auth-supabase) foi desenvolvido utilizando os recursos e documentação deste repositório, demonstrando na prática como os agentes de IA podem acelerar o desenvolvimento de APIs Node.js com TypeScript e autenticação Supabase.
+
 ## Como Usar
 
 ### 1. Escolha Sua Ferramenta de IA para Desenvolvimento
