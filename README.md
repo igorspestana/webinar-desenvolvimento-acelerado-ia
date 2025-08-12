@@ -8,6 +8,9 @@ Este projeto tem como objetivo demonstrar como utilizar agentes de IA para acele
 
 ## Estrutura do Projeto
 
+### 📄 `desenvolvimento-acelerado-com-agentes-de-ia.pdf`
+Slides da apresentação do webinar "Desenvolvimento Acelerado com Agentes de IA".
+
 ### 📁 `docs/` - Arquivos de Documentação
 Contém arquivos `.mdc` (Markdown Cursor) que servem como base de conhecimento:
 
